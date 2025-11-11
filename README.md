@@ -72,6 +72,26 @@ The **Austin Weather Dataset (Kaggle)** was used, containing 1,300+ daily record
 
 ---
 
+---
+
+## 📄 Project Report
+
+A detailed report documenting the **methodology, literature review, system design, and implementation** of this project is available here:
+
+📘 [Download Full Project Report (PDF)](report/Rainfall_Prediction_Report.pdf)
+
+**Contents include:**
+- Abstract & Introduction to Artificial Neural Networks (ANN)
+- Literature Survey of Rainfall Prediction Models
+- Existing vs Proposed System Analysis
+- System Design (Flowchart, Algorithm, Modules)
+- Implementation (Python + Keras)
+- Results, Accuracy, and Future Enhancements
+
+This report follows a structured academic format, providing both theoretical background and practical implementation details.
+
+---
+
 ## 🖼️ Visuals
 
 ### Confusion Matrix
